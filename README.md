@@ -1,0 +1,2 @@
+# EasyLife
+Android Test Project
